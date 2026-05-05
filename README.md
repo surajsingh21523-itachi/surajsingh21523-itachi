@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Suraj Singh Banner" />
-</p>
-
 <h1 align="center">SURAJ SINGH</h1>
 <p align="center">
   <b>AI SYSTEMS ARCHITECT & AUTOMATION STRATEGIST</b><br>
